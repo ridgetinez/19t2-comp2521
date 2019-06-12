@@ -39,12 +39,20 @@ int main(int argc, char **argv) {
     printf("f(x) = %lf\n", f_x);
 }
 
+// coeff[i], x^i coefficient
 double eval_polynomial_iter(double *coeff, int n, double x) {
-    /* Todo :) */
+    double sum = 0;
+    double x_pow = 1;
+    for (int i = 0; i < n; i++) {  
+        sum += coeff[i] * x_pow;
+        x_pow = x_pow * x;
+    }
+    return sum;
 }
 
 // Use the fact that a_0 + a_1x + a_2x^2 + .. + a_n-1x^n-1
 //                 = a_0 + x(a_1 + x(a_2 + ... x(a_n-1)))
 double horner(double *coeff, int n, int i, double x) {
-    /* Todo :) */
+    if (i == n-1) return coeff[i];
+    return coeff[i] + x*horner(coeff, n, i+1, x) 
 }

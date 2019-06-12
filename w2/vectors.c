@@ -71,10 +71,44 @@ void appendNode(Vector v, Node n) {
 
 // Complexity?
 Vector addVectors(Vector v, Vector w) {
-    /* Implement me :)
+    /*
      * Take inspiration from the O(n) merge function of two sorted lists into one sorted list.
      * When traversing through the two vectors, what cases might we have to consider?
      */
+    if (v->dimension != w->dimension) return NULL;
+    Vector sumV = newVector(v->dimension);
+    Node currV = v->first;
+    Node currW = w->first;
+    while(currV != NULL && currW != NULL) {
+      // Cases:
+      // (1) When the index you're comparing (currV->index == currW->index) are equal
+      // (2) When one index is less than the other (currV->index > currW->index), just append and move currW forward
+      // (3) Otherwise, append and move currV forward
+      if (currV->index == currW->index) {
+        // if we add the values of both the heads and they give us zero, don't want to append (e.g. 2 + -2 = 0)
+        if (currV->value + currW->value != 0) {
+          appendNode(sumV, newNode(currV->value + currW->value, currV->index));
+        }
+        currV = currV->next;
+        currW = currW->next;
+      } else if (currV->index < currW->index) {
+        appendNode(sumV, newNode(currV->value, currV->index));
+        currV = currV->next;
+      } else {
+        appendNode(sumV, newNode(currW->value, currW->index));
+        currW = currW->next;
+      }
+    }
+    // in the case that we still have values left to append to our new list
+    while (currV != NULL) {
+      appendNode(sumV, newNode(currV->value, currV->index));
+      currV = currV->next;
+    }
+    while (currW != NULL) {
+      appendNode(sumV, newNode(currW->value, currW->index));
+      currW = currW->next;
+    }
+    return sumV;
 }
 
 int main(void) {

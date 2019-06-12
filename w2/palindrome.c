@@ -5,12 +5,17 @@
 /* Complexity? Iteration vs. recursion tradeoffs */
 
 int isPalindromeIter(char *word) {
-    /* Todo :) */
+    int n = strlen(word); 
+    for (int i = 0; i < n/2; i++) {
+      if (word[i] != word[n-i-1]) return 0;
+    }
+    return 1;
 }
 
 int isPalindromeRec(char *word, int lo, int hi)
 {
-    /* Todo :) */
+    if (lo >= hi) return 1;
+    return word[lo] == word[hi] && isPalindromeRec(word, lo+1, hi-1);
 }
 
 /* Main code attributed to Nicholas Hiebl: github.com/nick-hiebl */
