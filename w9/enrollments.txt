@@ -1,0 +1,566 @@
+COMP2521|5083715|Zhang, Yi Vanessa                                 |3707/2|COMPA1       |083.053|17s2|19930607|F
+COMP2041|5083715|Zhang, Yi Vanessa                                 |3707/2|COMPA1       |083.053|17s2|19930607|F
+COMP1531|5083715|Zhang, Yi Vanessa                                 |3707/2|COMPA1       |083.053|17s2|19930607|F
+COMP1521|5083715|Zhang, Yi Vanessa                                 |3707/2|COMPA1       |083.053|17s2|19930607|F
+COMP2041|5088449|Yang, Alexander Phillip                           |8543  |COMPAS       |000.000|17s2|20000219|M
+COMP1511|5074084|Yao, Lucas Xiao Xinyu                             |3705/3|PHYSC1       |073.000|17s2|19990314|M
+COMP1511|5054302|Ho, Mitchell                                      |3978/3|COMPER       |000.000|17s2|19881012|M
+COMP1511|5089092|Pan, Adam Jacob                                   |3978/3|COMPSS       |060.545|17s2|19960428|M
+COMP2521|5045574|Wong, Alexander Declan                            |3711/4|SENGA1       |030.500|17s2|19881022|M
+COMP4920|5022751|Qin, Minh Jacob Scott                             |3715/4|COMPA1 MTRNAH|073.000|17s2|19980825|M
+COMP9336|5091256|Xu, Nikola Xinyu Yifan                            |3978/2|UNDL-U       |042.500|17s2|19931219|M
+COMP9902|5076354|Lai, Zachary George Dominic                       |3978/2|UNDL-U       |000.000|17s2|19880523|M
+COMP9511|5074999|Hu, Steven George                                 |3778/1|COMPA1 UNDL-U|000.000|17s2|19940403|M
+COMP9311|5074999|Hu, Steven George                                 |3778/1|COMPA1 UNDL-U|000.000|17s2|19940403|M
+COMP9021|5074999|Hu, Steven George                                 |3778/1|COMPA1 UNDL-U|000.000|17s2|19940403|M
+COMP9020|5074999|Hu, Steven George                                 |3778/1|COMPA1 UNDL-U|000.000|17s2|19940403|M
+COMP2521|5073195|Tang, Dominic Andy Hong                           |7543  |COMPAS COMPSS|070.909|17s2|19940205|M
+COMP1521|5048314|Xin, Colin                                        |3978/3|COMPBH       |065.625|17s2|19930710|M
+COMP1511|5017795|Zhou, Callum Jeffrey Kelvin                       |3707/1|COMPAS COMPIS|068.000|17s2|19920804|M
+COMP3331|5032877|Au, Ryan Harrison Lachlan                         |3978/3|COMPAS COMPES|066.667|17s2|19930328|M
+COMP1521|5030181|Qian, Benjamin Jake                               |5543  |COMPBS       |056.000|17s2|19890616|M
+COMP2521|5099187|Guan, Rohan Mark Josh Jesse                       |7543  |COMPBH       |075.714|17s2|19971017|M
+COMP1531|5099187|Guan, Rohan Mark Josh Jesse                       |7543  |COMPBH       |075.714|17s2|19971017|M
+COMP9444|5054679|Mao, Xiang Liyu                                   |8543  |FINSA1 SENGAH|000.000|17s2|19941004|M
+COMP4920|5054679|Mao, Xiang Liyu                                   |8543  |FINSA1 SENGAH|000.000|17s2|19941004|M
+COMP4920|5027348|Yuan, Richard Lachlan Bin Yi                      |3785/3|COMPA1       |000.000|17s2|20020728|M
+COMP6771|5029057|Zhao, Yi Josh Jack                                |3967/4|SENGAH       |065.375|17s2|19911228|M
+COMP4336|5029057|Zhao, Yi Josh Jack                                |3967/4|SENGAH       |065.375|17s2|19911228|M
+COMP3511|5029057|Zhao, Yi Josh Jack                                |3967/4|SENGAH       |065.375|17s2|19911228|M
+COMP9444|5068878|Wu, Karl Joel                                     |8543  |COMPIS       |000.000|17s2|19980901|M
+COMP1511|5025751|Dai, David                                        |8543  |COMPA1       |050.333|17s2|19931118|M
+COMP9444|5051980|Xiao, Albert Lawrence Jun                         |3945/2|COMPIS       |000.000|17s2|19971213|M
+COMP9321|5051980|Xiao, Albert Lawrence Jun                         |3945/2|COMPIS       |000.000|17s2|19971213|M
+COMP9313|5051980|Xiao, Albert Lawrence Jun                         |3945/2|COMPIS       |000.000|17s2|19971213|M
+COMP6714|5051980|Xiao, Albert Lawrence Jun                         |3945/2|COMPIS       |000.000|17s2|19971213|M
+COMP9311|5028886|Vo, Yiming Angus                                  |3438/1|COMPAH       |000.000|17s2|19980705|M
+COMP9021|5028886|Vo, Yiming Angus                                  |3438/1|COMPAH       |000.000|17s2|19980705|M
+COMP9020|5028886|Vo, Yiming Angus                                  |3438/1|COMPAH       |000.000|17s2|19980705|M
+COMP2521|5055655|Ye, James Jeremy Steven Dylan                     |3707/2|COMPN1       |058.364|17s2|19920120|M
+COMP2521|5077394|Qin, Harrison Jie                                 |3967/4|GMATSR       |086.333|17s2|19940711|M
+COMP1531|5077394|Qin, Harrison Jie                                 |3967/4|GMATSR       |086.333|17s2|19940711|M
+COMP9444|5059012|Zeng, Le Ryan                                     |3767/3|COMPA1       |080.667|17s2|19940727|M
+COMP6845|5059012|Zeng, Le Ryan                                     |3767/3|COMPA1       |080.667|17s2|19940727|M
+COMP6771|5059012|Zeng, Le Ryan                                     |3767/3|COMPA1       |080.667|17s2|19940727|M
+COMP4121|5059012|Zeng, Le Ryan                                     |3767/3|COMPA1       |080.667|17s2|19940727|M
+COMP1511|5078061|Sharma, Ho Marc Lucas                             |4515/1|COMPCS       |000.000|17s2|19960628|M
+COMP3331|5036910|Hao, Chun                                         |1650  |COMPA1 UNDL-U|080.000|17s2|19950207|M
+COMP1521|5003771|Smith, Chang Roger Victor                         |8543  |COMPA1       |058.500|17s2|19931018|M
+COMP3511|5019467|Xu, Jing Emily Jing                               |3978/4|COMPA1       |081.750|17s2|19840218|F
+COMP9444|5031036|Dang, Jacob Henry Oscar Ryan Zachary              |8543  |COMPA1       |000.000|17s2|19800807|M
+COMP4920|5031036|Dang, Jacob Henry Oscar Ryan Zachary              |8543  |COMPA1       |000.000|17s2|19800807|M
+COMP4418|5031036|Dang, Jacob Henry Oscar Ryan Zachary              |8543  |COMPA1       |000.000|17s2|19800807|M
+COMP2121|5031036|Dang, Jacob Henry Oscar Ryan Zachary              |8543  |COMPA1       |000.000|17s2|19800807|M
+COMP9444|5020904|Chua, Jae                                         |3778/1|COMPA1       |063.741|17s2|19900810|M
+COMP4920|5020904|Chua, Jae                                         |3778/1|COMPA1       |063.741|17s2|19900810|M
+COMP4121|5020904|Chua, Jae                                         |3778/1|COMPA1       |063.741|17s2|19900810|M
+COMP2041|5096337|Morris, Tommy                                     |8543  |INFSA1       |000.000|17s2|19980903|M
+COMP1531|5039528|Tran, Rui Han                                     |3707/1|COMPAS       |000.000|17s2|19931019|M
+COMP1521|5039528|Tran, Rui Han                                     |3707/1|COMPAS       |000.000|17s2|19931019|M
+COMP1511|5061630|Martin, Zheng Harry                               |3707/1|COMPAS       |000.000|17s2|19930814|M
+COMP3421|5045086|Chan, Tristan Phillip                             |3707/1|COMPBH       |072.357|17s2|19861009|M
+COMP3222|5045086|Chan, Tristan Phillip                             |3707/1|COMPBH       |072.357|17s2|19861009|M
+COMP1511|5096730|Gu, Yun Yue                                       |3970/2|SENGA1       |063.750|17s2|19971113|F
+COMP1511|5039969|Tan, Vanessa Vanessa Vanessa                      |3778/1|COMPA1       |022.333|17s2|19960622|F
+COMP2041|5012975|Mao, Zhen                                         |3736/1|COMPA1       |050.333|17s2|19980825|M
+COMP9311|5079357|Hu, Qian                                          |8543  |COMPCS       |000.000|17s2|19901118|F
+COMP9021|5079357|Hu, Qian                                          |8543  |COMPCS       |000.000|17s2|19901118|F
+COMP9020|5079357|Hu, Qian                                          |8543  |COMPCS       |000.000|17s2|19901118|F
+COMP1521|5049967|Liang, Xin Vivian                                 |3768/3|COMPA1 IBUSA1|000.000|17s2|19950101|F
+COMP1521|5064229|Hou, Wei                                          |8543  |UNDL-U       |000.000|17s2|19930123|M
+COMP2041|5019660|Yang, Adrian Fu Adrian Rowan                      |3778/1|COMPA1       |070.636|17s2|19870605|M
+COMP1521|5095665|Qu, Yufei Daniel                                  |3778/1|COMPA1       |075.929|17s2|20000511|M
+COMP3222|5042171|Huang, Lillian Christine Yi                       |3956/2|COMPCS       |064.040|17s2|19860318|F
+COMP2521|5035057|Cheng, Sebastian Saurabh                          |8543  |SENGA1       |000.000|17s2|19910717|M
+COMP1511|5062315|Xie, Hannah Naomi                                 |8543  |COMPI1       |068.250|17s2|19980903|F
+COMP9902|5041163|Lee, Robert                                       |3707/1|COMPA1       |053.176|17s2|19990611|M
+COMP9444|5006244|Jin, Lucas                                        |7543  |COMPAS       |055.769|17s2|19970401|M
+COMP9313|5006244|Jin, Lucas                                        |7543  |COMPAS       |055.769|17s2|19970401|M
+COMP9444|5083629|Le, Zachary Peng Hayden Liam                      |3970/3|COMPA1       |042.043|17s2|19941022|M
+COMP3511|5083629|Le, Zachary Peng Hayden Liam                      |3970/3|COMPA1       |042.043|17s2|19941022|M
+COMP3161|5083629|Le, Zachary Peng Hayden Liam                      |3970/3|COMPA1       |042.043|17s2|19941022|M
+COMP3151|5083629|Le, Zachary Peng Hayden Liam                      |3970/3|COMPA1       |042.043|17s2|19941022|M
+COMP9336|5066388|Zhuang, Leo                                       |3970/1|COMPB1       |066.000|17s2|19930107|M
+COMP4418|5066388|Zhuang, Leo                                       |3970/1|COMPB1       |066.000|17s2|19930107|M
+COMP1521|5015024|Dang, Kenneth                                     |8543  |SENGAH       |065.750|17s2|19900128|M
+COMP2521|5012733|Zhu, You                                          |8543  |SENGAH       |072.211|17s2|19921119|M
+COMP1531|5012733|Zhu, You                                          |8543  |SENGAH       |072.211|17s2|19921119|M
+COMP1521|5012733|Zhu, You                                          |8543  |SENGAH       |072.211|17s2|19921119|M
+COMP1521|5021231|Han, Ho William                                   |3978/3|COMPA1 COMPN1|058.000|17s2|20031125|M
+COMP9444|5027337|Wu, Stephanie Sarah Ka Rebecca                    |3956/1|FINSA1 MATHM1|000.000|17s2|19941011|F
+COMP9336|5027337|Wu, Stephanie Sarah Ka Rebecca                    |3956/1|FINSA1 MATHM1|000.000|17s2|19941011|F
+COMP9041|5027337|Wu, Stephanie Sarah Ka Rebecca                    |3956/1|FINSA1 MATHM1|000.000|17s2|19941011|F
+COMP9331|5052831|Huynh, Vanessa Maria                              |8543  |COMPCS       |063.917|17s2|19920525|F
+COMP9041|5052831|Huynh, Vanessa Maria                              |8543  |COMPCS       |063.917|17s2|19920525|F
+COMP9024|5052831|Huynh, Vanessa Maria                              |8543  |COMPCS       |063.917|17s2|19920525|F
+COMP4161|5052831|Huynh, Vanessa Maria                              |8543  |COMPCS       |063.917|17s2|19920525|F
+COMP9900|5035898|Wang, Helen                                       |8543  |AEROA1 COMPA1|000.000|17s2|19980824|F
+COMP9444|5035898|Wang, Helen                                       |8543  |AEROA1 COMPA1|000.000|17s2|19980824|F
+COMP9313|5035898|Wang, Helen                                       |8543  |AEROA1 COMPA1|000.000|17s2|19980824|F
+COMP1511|5008962|Hao, Edward Chao Kevin                            |3707/2|COMPCS       |069.917|17s2|19940528|M
+COMP1521|5056396|Zhang, Rui Qian Stephanie                         |3970/1|SENGAH       |088.000|17s2|19990411|F
+COMP9331|5011973|Ellis, Xiaohan                                    |4515/1|COMPBH       |082.700|17s2|19920903|M
+COMP9041|5011973|Ellis, Xiaohan                                    |4515/1|COMPBH       |082.700|17s2|19920903|M
+COMP9024|5011973|Ellis, Xiaohan                                    |4515/1|COMPBH       |082.700|17s2|19920903|M
+COMP3331|5021014|Yang, Yang Emily                                  |3715/5|SENGA1       |000.000|17s2|19980621|F
+COMP2041|5021014|Yang, Yang Emily                                  |3715/5|SENGA1       |000.000|17s2|19980621|F
+COMP1531|5021014|Yang, Yang Emily                                  |3715/5|SENGA1       |000.000|17s2|19980621|F
+COMP1521|5021014|Yang, Yang Emily                                  |3715/5|SENGA1       |000.000|17s2|19980621|F
+COMP1511|5048520|Hu, Dong Harry                                    |3778/3|SENGAH       |059.000|17s2|19990701|M
+COMP9902|5060510|Chin, Joseph Jie                                  |1650  |NEURB1       |059.333|17s2|19971116|M
+COMP9444|5022218|He, Gabriel Abdullah Raymond                      |3946/2|COMPDS       |000.000|17s2|19911027|M
+COMP6771|5022218|He, Gabriel Abdullah Raymond                      |3946/2|COMPDS       |000.000|17s2|19911027|M
+COMP6714|5022218|He, Gabriel Abdullah Raymond                      |3946/2|COMPDS       |000.000|17s2|19911027|M
+COMP4121|5022218|He, Gabriel Abdullah Raymond                      |3946/2|COMPDS       |000.000|17s2|19911027|M
+COMP9902|5092765|Luo, Ying                                         |3978/2|ADMNKN       |000.000|17s2|19930904|F
+COMP9024|5092765|Luo, Ying                                         |3978/2|ADMNKN       |000.000|17s2|19930904|F
+COMP6714|5092765|Luo, Ying                                         |3978/2|ADMNKN       |000.000|17s2|19930904|F
+COMP9321|5071634|Xin, Chi Wei Usman                                |8543  |COMPB1       |084.625|17s2|19950809|M
+COMP6771|5071634|Xin, Chi Wei Usman                                |8543  |COMPB1       |084.625|17s2|19950809|M
+COMP3421|5071634|Xin, Chi Wei Usman                                |8543  |COMPB1       |084.625|17s2|19950809|M
+COMP9331|5035388|Qiu, Ying Anna                                    |3959/1|COMPA1 MTRNAH|080.293|17s2|19940903|F
+COMP9024|5035388|Qiu, Ying Anna                                    |3959/1|COMPA1 MTRNAH|080.293|17s2|19940903|F
+COMP4418|5035388|Qiu, Ying Anna                                    |3959/1|COMPA1 MTRNAH|080.293|17s2|19940903|F
+COMP9511|5055932|Murray, Wei                                       |7543  |COMPER       |074.100|17s2|19921219|M
+COMP9336|5055932|Murray, Wei                                       |7543  |COMPER       |074.100|17s2|19921219|M
+COMP9311|5055932|Murray, Wei                                       |7543  |COMPER       |074.100|17s2|19921219|M
+COMP2041|5032320|Zhu, Jing Vanessa                                 |3782/1|COMPAS COMPSS|082.667|17s2|19931222|F
+COMP1400|5032320|Zhu, Jing Vanessa                                 |3782/1|COMPAS COMPSS|082.667|17s2|19931222|F
+COMP6771|5054564|Mo, Roy Zheng                                     |3978/4|COMPES       |070.350|17s2|19990916|M
+COMP3421|5054564|Mo, Roy Zheng                                     |3978/4|COMPES       |070.350|17s2|19990916|M
+COMP3161|5054564|Mo, Roy Zheng                                     |3978/4|COMPES       |070.350|17s2|19990916|M
+COMP1531|5054564|Mo, Roy Zheng                                     |3978/4|COMPES       |070.350|17s2|19990916|M
+COMP2521|5000218|Leung, Yiwei Connor Harry                         |8543  |SENGAH       |090.769|17s2|20030627|M
+COMP1531|5000218|Leung, Yiwei Connor Harry                         |8543  |SENGAH       |090.769|17s2|20030627|M
+COMP1521|5000218|Leung, Yiwei Connor Harry                         |8543  |SENGAH       |090.769|17s2|20030627|M
+COMP2521|5079278|Huynh, Feng                                       |3764/2|COMPA1 MTRNAH|072.750|17s2|19951024|M
+COMP2041|5079278|Huynh, Feng                                       |3764/2|COMPA1 MTRNAH|072.750|17s2|19951024|M
+COMP1531|5079278|Huynh, Feng                                       |3764/2|COMPA1 MTRNAH|072.750|17s2|19951024|M
+COMP1521|5079278|Huynh, Feng                                       |3764/2|COMPA1 MTRNAH|072.750|17s2|19951024|M
+COMP4418|5061822|Yoo, Bruce Feng                                   |8543  |COMPI1 FINSA1|053.524|17s2|20020828|M
+COMP9444|5022854|Tan, Xin Pengcheng Matthew                        |3969/2|COMPSS       |093.846|17s2|19980919|M
+COMP9900|5047298|Scott, Adrian Zachary Lawrence                    |8543  |COMPB1       |089.400|17s2|19840224|M
+COMP9517|5047298|Scott, Adrian Zachary Lawrence                    |8543  |COMPB1       |089.400|17s2|19840224|M
+COMP9444|5047298|Scott, Adrian Zachary Lawrence                    |8543  |COMPB1       |089.400|17s2|19840224|M
+COMP2121|5061548|Zhu, Vincent Alex Kelvin Thomas                   |8543  |COMPA1       |093.600|17s2|20030108|M
+COMP2041|5061548|Zhu, Vincent Alex Kelvin Thomas                   |8543  |COMPA1       |093.600|17s2|20030108|M
+COMP9511|5043558|Le, Sean                                          |8543  |SENGAH       |000.000|17s2|19811216|M
+COMP9311|5043558|Le, Sean                                          |8543  |SENGAH       |000.000|17s2|19811216|M
+COMP9021|5043558|Le, Sean                                          |8543  |SENGAH       |000.000|17s2|19811216|M
+COMP9020|5043558|Le, Sean                                          |8543  |SENGAH       |000.000|17s2|19811216|M
+COMP9517|5074388|Tan, Emily                                        |3772/2|BIOCM1 CHEMD2|054.308|17s2|19970927|F
+COMP9444|5074388|Tan, Emily                                        |3772/2|BIOCM1 CHEMD2|054.308|17s2|19970927|F
+COMP6771|5074388|Tan, Emily                                        |3772/2|BIOCM1 CHEMD2|054.308|17s2|19970927|F
+COMP6714|5074388|Tan, Emily                                        |3772/2|BIOCM1 CHEMD2|054.308|17s2|19970927|F
+COMP2121|5021096|Liu, Yang                                         |3647/4|SENGAH       |077.727|17s2|19900302|F
+COMP2041|5021096|Liu, Yang                                         |3647/4|SENGAH       |077.727|17s2|19900302|F
+COMP1511|5073766|Huynh, Julian                                     |8543  |ADMNKN       |059.762|17s2|19981029|M
+COMP9900|5008685|Chen, Fan Xi Nathan                               |8543  |UNDL-U       |056.000|17s2|19920227|M
+COMP9242|5008685|Chen, Fan Xi Nathan                               |8543  |UNDL-U       |056.000|17s2|19920227|M
+COMP6771|5008685|Chen, Fan Xi Nathan                               |8543  |UNDL-U       |056.000|17s2|19920227|M
+COMP6714|5008685|Chen, Fan Xi Nathan                               |8543  |UNDL-U       |056.000|17s2|19920227|M
+COMP1400|5010044|Chu, Xiaohan Benjamin                             |8543  |COMPCS       |000.000|17s2|19921228|M
+COMP9517|5077388|Martin, Hao                                       |8543  |COMPA1       |000.000|17s2|19950204|M
+COMP9444|5077388|Martin, Hao                                       |8543  |COMPA1       |000.000|17s2|19950204|M
+COMP9313|5077388|Martin, Hao                                       |8543  |COMPA1       |000.000|17s2|19950204|M
+COMP1531|5014501|Yao, Venkata Tianyi                               |3978/2|SENGAH       |076.111|17s2|19990530|M
+COMP2121|5043427|Chen, Brandon Tristan Scott                       |8543  |ELECAH       |063.333|17s2|19930503|M
+COMP1521|5039311|Lan, Usman Albert                                 |3778/1|COMPBH       |000.000|17s2|19870215|M
+COMP3331|5083048|Liang, Aaron Xiang Bowen                          |8543  |COMPAH       |073.852|17s2|19961217|M
+COMP2041|5083048|Liang, Aaron Xiang Bowen                          |8543  |COMPAH       |073.852|17s2|19961217|M
+COMP3331|5044385|Chua, Yiwei Mackenzie Xudong                      |8543  |ELECAH       |061.056|17s2|19950903|M
+COMP1511|5012726|Chu, Nikola Kelvin                                |3707/1|SENGAH       |000.000|17s2|20000703|M
+COMP6771|5007216|Bi, Adam Timothy                                  |8543  |COMPSS       |000.000|17s2|19900627|M
+COMP4121|5007216|Bi, Adam Timothy                                  |8543  |COMPSS       |000.000|17s2|19900627|M
+COMP3151|5007216|Bi, Adam Timothy                                  |8543  |COMPSS       |000.000|17s2|19900627|M
+COMP1511|5051651|Lim, Gordon Bin                                   |7543  |COMPCS       |059.750|17s2|19941011|M
+COMP1511|5022410|Ng, Ka                                            |3711/4|SENGAH       |000.000|17s2|19930629|F
+COMP9444|5013997|Tang, Yufei Sean                                  |3778/2|COMPB1       |070.000|17s2|19900806|M
+COMP9161|5013997|Tang, Yufei Sean                                  |3778/2|COMPB1       |070.000|17s2|19900806|M
+COMP6771|5013997|Tang, Yufei Sean                                  |3778/2|COMPB1       |070.000|17s2|19900806|M
+COMP6714|5013997|Tang, Yufei Sean                                  |3778/2|COMPB1       |070.000|17s2|19900806|M
+COMP9444|5075722|Tan, Christopher                                  |5543  |COMPA1       |078.364|17s2|19870124|M
+COMP3151|5076453|Tian, Jing Alan                                   |3983/3|COMPB1       |073.000|17s2|19990128|M
+COMP2041|5076453|Tian, Jing Alan                                   |3983/3|COMPB1       |073.000|17s2|19990128|M
+COMP9336|5082681|Wen, Patrick                                      |3707/1|NAPPL-       |064.700|17s2|19990402|M
+COMP6714|5082681|Wen, Patrick                                      |3707/1|NAPPL-       |064.700|17s2|19990402|M
+COMP9511|5080763|Yan, Sarah Hannah Sarah                           |3981/1|NAPPL-       |087.000|17s2|20001023|F
+COMP9311|5080763|Yan, Sarah Hannah Sarah                           |3981/1|NAPPL-       |087.000|17s2|20001023|F
+COMP9021|5080763|Yan, Sarah Hannah Sarah                           |3981/1|NAPPL-       |087.000|17s2|20001023|F
+COMP9020|5080763|Yan, Sarah Hannah Sarah                           |3981/1|NAPPL-       |087.000|17s2|20001023|F
+COMP4920|5045752|Huynh, Victor Steven                              |8621  |COMPA1       |000.000|17s2|19961011|M
+COMP4121|5045752|Huynh, Victor Steven                              |8621  |COMPA1       |000.000|17s2|19961011|M
+COMP1511|5086286|Zeng, Tristan                                     |3781/1|COMPA1       |079.000|17s2|19990622|M
+COMP9331|5007810|Qian, Zihao                                       |3784/1|COMPA1 DIGMD2|000.000|17s2|19941221|M
+COMP9321|5007810|Qian, Zihao                                       |3784/1|COMPA1 DIGMD2|000.000|17s2|19941221|M
+COMP9024|5007810|Qian, Zihao                                       |3784/1|COMPA1 DIGMD2|000.000|17s2|19941221|M
+COMP6714|5007810|Qian, Zihao                                       |3784/1|COMPA1 DIGMD2|000.000|17s2|19941221|M
+COMP1511|5004897|Jiang, Hong                                       |3725/3|COMPCS       |000.000|17s2|19951110|M
+COMP1531|5008869|Lim, Xue Vivian                                   |8543  |COMPCS       |077.833|17s2|19981230|F
+COMP1521|5008869|Lim, Xue Vivian                                   |8543  |COMPCS       |077.833|17s2|19981230|F
+COMP2521|5066467|Ren, John Hayden Yuan                             |3707/3|ELECE1       |000.000|17s2|19810516|M
+COMP1531|5066467|Ren, John Hayden Yuan                             |3707/3|ELECE1       |000.000|17s2|19810516|M
+COMP1521|5066467|Ren, John Hayden Yuan                             |3707/3|ELECE1       |000.000|17s2|19810516|M
+COMP9311|5009899|Ma, Xiaohan Hui                                   |8543  |COMPA1       |077.500|17s2|19931216|M
+COMP9021|5009899|Ma, Xiaohan Hui                                   |8543  |COMPA1       |077.500|17s2|19931216|M
+COMP9020|5009899|Ma, Xiaohan Hui                                   |8543  |COMPA1       |077.500|17s2|19931216|M
+COMP9331|5018374|Chow, Christine Rui                               |8543  |COMPI1       |004.000|17s2|19930228|F
+COMP9321|5018374|Chow, Christine Rui                               |8543  |COMPI1       |004.000|17s2|19930228|F
+COMP9024|5018374|Chow, Christine Rui                               |8543  |COMPI1       |004.000|17s2|19930228|F
+COMP1521|5086786|Ye, Tristan Gary                                  |3764/4|SENGAH       |075.250|17s2|19941208|M
+COMP1521|5085537|Yu, Jiaqi Zihao Cheng Gabriel                     |3563/4|SENGAH       |091.500|17s2|20000622|M
+COMP9444|5022478|Ahmed, Paul Abdullah                              |3978/4|COMPA1       |000.000|17s2|19990210|M
+COMP1521|5037642|Wei, Declan William                               |3978/3|FINSA1 SENGA1|056.000|17s2|19980418|M
+COMP9444|5073511|Ge, Zhenyu                                        |8543  |COMPA1       |063.381|17s2|19890917|M
+COMP4418|5073511|Ge, Zhenyu                                        |8543  |COMPA1       |063.381|17s2|19890917|M
+COMP3511|5073511|Ge, Zhenyu                                        |8543  |COMPA1       |063.381|17s2|19890917|M
+COMP9331|5097212|Jia, Chi James                                    |3648/3|COMPER       |073.500|17s2|20020520|M
+COMP9321|5097212|Jia, Chi James                                    |3648/3|COMPER       |073.500|17s2|20020520|M
+COMP9024|5097212|Jia, Chi James                                    |3648/3|COMPER       |073.500|17s2|20020520|M
+COMP4418|5097212|Jia, Chi James                                    |3648/3|COMPER       |073.500|17s2|20020520|M
+COMP2041|5026568|Luo, Rui                                          |8543  |COMPA1       |082.050|17s2|20020213|F
+COMP9331|5071074|Song, Dylan                                       |3648/4|COMPCS       |079.148|17s2|20001219|M
+COMP9321|5071074|Song, Dylan                                       |3648/4|COMPCS       |079.148|17s2|20001219|M
+COMP9024|5071074|Song, Dylan                                       |3648/4|COMPCS       |079.148|17s2|20001219|M
+COMP6714|5071074|Song, Dylan                                       |3648/4|COMPCS       |079.148|17s2|20001219|M
+COMP9902|5044891|Xiao, Xin                                         |3730/4|COMPCS       |060.000|17s2|19960323|F
+COMP1511|5039670|Wen, Yitian                                       |3978/3|COMPI1 MATHM1|077.000|17s2|20020927|M
+COMP9311|5022910|Kim, Simon Rohan                                  |8543  |COMPI1       |085.125|17s2|19880423|M
+COMP9021|5022910|Kim, Simon Rohan                                  |8543  |COMPI1       |085.125|17s2|19880423|M
+COMP9020|5022910|Kim, Simon Rohan                                  |8543  |COMPI1       |085.125|17s2|19880423|M
+COMP9322|5061130|Su, Jason Wei                                     |8543  |SENGAH       |057.750|17s2|19910209|M
+COMP9313|5061130|Su, Jason Wei                                     |8543  |SENGAH       |057.750|17s2|19910209|M
+COMP6771|5061130|Su, Jason Wei                                     |8543  |SENGAH       |057.750|17s2|19910209|M
+COMP6714|5061130|Su, Jason Wei                                     |8543  |SENGAH       |057.750|17s2|19910209|M
+COMP9331|5023152|Deng, Rowan                                       |3984/2|COMPA1       |071.550|17s2|19961204|M
+COMP9321|5023152|Deng, Rowan                                       |3984/2|COMPA1       |071.550|17s2|19961204|M
+COMP9041|5023152|Deng, Rowan                                       |3984/2|COMPA1       |071.550|17s2|19961204|M
+COMP9024|5023152|Deng, Rowan                                       |3984/2|COMPA1       |071.550|17s2|19961204|M
+COMP2521|5011810|Huynh, Timothy                                    |3645/4|COMPA1       |075.750|17s2|19900115|M
+COMP1531|5011810|Huynh, Timothy                                    |3645/4|COMPA1       |075.750|17s2|19900115|M
+COMP2121|5036857|Guan, Alvin                                       |8543  |COMPAS       |070.071|17s2|19950206|M
+COMP6771|5042474|Mao, Hong Liyu Tommy                              |3764/2|COMPA1       |078.071|17s2|19951017|M
+COMP4920|5042474|Mao, Hong Liyu Tommy                              |3764/2|COMPA1       |078.071|17s2|19951017|M
+COMP4121|5042474|Mao, Hong Liyu Tommy                              |3764/2|COMPA1       |078.071|17s2|19951017|M
+COMP3331|5042474|Mao, Hong Liyu Tommy                              |3764/2|COMPA1       |078.071|17s2|19951017|M
+COMP4336|5050933|Qi, Bo Wei                                        |3978/2|COMPCS       |000.000|17s2|19980713|M
+COMP3151|5050933|Qi, Bo Wei                                        |3978/2|COMPCS       |000.000|17s2|19980713|M
+COMP2121|5050933|Qi, Bo Wei                                        |3978/2|COMPCS       |000.000|17s2|19980713|M
+COMP1511|5095349|Zhu, Adam Lucas Jiahui                            |3711/4|COMPER       |062.538|17s2|19990916|M
+COMP9322|5072682|Dang, Yue Lillian Lillian                         |3945/2|COMPA1 FINSA1|074.471|17s2|19910623|F
+COMP6714|5024116|Xiao, Rui Jing                                    |3707/3|SENGAH       |044.625|17s2|20011002|F
+COMP1511|5025542|Lam, Mitchell                                     |8543  |COMPA1       |064.696|17s2|19990420|M
+COMP6714|5030949|Lee, Rohan Chao                                   |3978/3|COMPAS       |060.500|17s2|19980919|M
+COMP4418|5030949|Lee, Rohan Chao                                   |3978/3|COMPAS       |060.500|17s2|19980919|M
+COMP9311|5097777|Wan, Jacob Edward                                 |3778/1|COMPSS       |068.500|17s2|19960708|M
+COMP9032|5097777|Wan, Jacob Edward                                 |3778/1|COMPSS       |068.500|17s2|19960708|M
+COMP9021|5097777|Wan, Jacob Edward                                 |3778/1|COMPSS       |068.500|17s2|19960708|M
+COMP9020|5097777|Wan, Jacob Edward                                 |3778/1|COMPSS       |068.500|17s2|19960708|M
+COMP9331|5021045|Cheung, Muhammad                                  |8543  |COMPCS       |000.000|17s2|19971003|M
+COMP9024|5021045|Cheung, Muhammad                                  |8543  |COMPCS       |000.000|17s2|19971003|M
+COMP9444|5043170|Quan, Carlos Yu Jamie                             |3764/1|COMPAS       |072.750|17s2|19861019|M
+COMP9321|5043170|Quan, Carlos Yu Jamie                             |3764/1|COMPAS       |072.750|17s2|19861019|M
+COMP6714|5043170|Quan, Carlos Yu Jamie                             |3764/1|COMPAS       |072.750|17s2|19861019|M
+COMP4418|5043170|Quan, Carlos Yu Jamie                             |3764/1|COMPAS       |072.750|17s2|19861019|M
+COMP3331|5072044|Nguyen, Jia Yuxuan                                |8543  |SENGAH       |072.333|17s2|19980809|M
+COMP2521|5079211|Tong, Richard Victor                              |8543  |COMPCS       |000.000|17s2|19970309|M
+COMP1531|5079211|Tong, Richard Victor                              |8543  |COMPCS       |000.000|17s2|19970309|M
+COMP2521|5059792|Khan, Bruce                                       |8543  |COMPA1       |067.364|17s2|19931103|M
+COMP1531|5059792|Khan, Bruce                                       |8543  |COMPA1       |067.364|17s2|19931103|M
+COMP1521|5059792|Khan, Bruce                                       |8543  |COMPA1       |067.364|17s2|19931103|M
+COMP2041|5053304|Qiu, Yun Qian Naomi Anna                          |3707/3|COMPA1 MATHM1|085.000|17s2|19910806|F
+COMP1521|5053304|Qiu, Yun Qian Naomi Anna                          |3707/3|COMPA1 MATHM1|085.000|17s2|19910806|F
+COMP2041|5094342|Luo, Jiawei Nicholas                              |3778/2|COMPA1       |000.000|17s2|20020623|M
+COMP1531|5094342|Luo, Jiawei Nicholas                              |3778/2|COMPA1       |000.000|17s2|20020623|M
+COMP1521|5094342|Luo, Jiawei Nicholas                              |3778/2|COMPA1       |000.000|17s2|20020623|M
+COMP2521|5040280|Dai, Usman                                        |3521/3|COMPA1       |000.000|17s2|20001016|M
+COMP1531|5040280|Dai, Usman                                        |3521/3|COMPA1       |000.000|17s2|20001016|M
+COMP1521|5040280|Dai, Usman                                        |3521/3|COMPA1       |000.000|17s2|20001016|M
+COMP2521|5006621|Hao, Richard                                      |3978/3|COMPES       |082.667|17s2|19990104|M
+COMP2121|5006621|Hao, Richard                                      |3978/3|COMPES       |082.667|17s2|19990104|M
+COMP1531|5006621|Hao, Richard                                      |3978/3|COMPES       |082.667|17s2|19990104|M
+COMP1521|5006621|Hao, Richard                                      |3978/3|COMPES       |082.667|17s2|19990104|M
+COMP1531|5057457|Yang, Yue Anna Xinyi                              |2645  |COMPAS       |093.750|17s2|19950806|F
+COMP1521|5057457|Yang, Yue Anna Xinyi                              |2645  |COMPAS       |093.750|17s2|19950806|F
+COMP9311|5027407|Vo, Jamie James                                   |8543  |COMPA1 UNDL-U|070.750|17s2|19901015|M
+COMP9021|5027407|Vo, Jamie James                                   |8543  |COMPA1 UNDL-U|070.750|17s2|19901015|M
+COMP9020|5027407|Vo, Jamie James                                   |8543  |COMPA1 UNDL-U|070.750|17s2|19901015|M
+COMP9444|5054719|Tran, Bin Jiaqi Joel                              |6001  |COMPCS       |077.667|17s2|19991112|M
+COMP9321|5054719|Tran, Bin Jiaqi Joel                              |6001  |COMPCS       |077.667|17s2|19991112|M
+COMP9041|5054719|Tran, Bin Jiaqi Joel                              |6001  |COMPCS       |077.667|17s2|19991112|M
+COMP6714|5054719|Tran, Bin Jiaqi Joel                              |6001  |COMPCS       |077.667|17s2|19991112|M
+COMP4121|5045699|Ni, John Matthew                                  |3983/3|COMPA1       |088.571|17s2|19961007|M
+COMP3331|5045699|Ni, John Matthew                                  |3983/3|COMPA1       |088.571|17s2|19961007|M
+COMP2521|5069198|Tan, Rui Anna                                     |3970/3|MATHV1       |087.583|17s2|19941111|F
+COMP9321|5078196|Xiao, Rebecca Hui                                 |7543  |COMPA1 ELECAH|000.000|17s2|19860323|F
+COMP6771|5078196|Xiao, Rebecca Hui                                 |7543  |COMPA1 ELECAH|000.000|17s2|19860323|F
+COMP3421|5078196|Xiao, Rebecca Hui                                 |7543  |COMPA1 ELECAH|000.000|17s2|19860323|F
+COMP9311|5010424|Cheng, Xin                                        |8543  |COMPA1       |092.179|17s2|19940721|F
+COMP9024|5010424|Cheng, Xin                                        |8543  |COMPA1       |092.179|17s2|19940721|F
+COMP1521|5092418|Chiu, Usman Jeremy Oliver                         |3707/1|COMPIS       |075.625|17s2|20000324|M
+COMP1511|5062890|Ellis, Jin                                        |3961/2|BINFAH       |052.714|17s2|19990306|M
+COMP9444|5018539|Nie, Rowan                                        |3764/4|COMPBH       |086.900|17s2|19950704|M
+COMP9331|5051413|Hou, Xudong Xi                                    |3707/2|COMPCS       |062.750|17s2|19931204|M
+COMP9024|5051413|Hou, Xudong Xi                                    |3707/2|COMPCS       |062.750|17s2|19931204|M
+COMP6714|5051413|Hou, Xudong Xi                                    |3707/2|COMPCS       |062.750|17s2|19931204|M
+COMP4418|5051413|Hou, Xudong Xi                                    |3707/2|COMPCS       |062.750|17s2|19931204|M
+COMP3331|5031213|Fang, Bruce Alfred                                |8543  |COMPA1       |000.000|17s2|19820813|M
+COMP3222|5031213|Fang, Bruce Alfred                                |8543  |COMPA1       |000.000|17s2|19820813|M
+COMP2521|5043436|Yang, Marc Saurabh Liam                           |3707/1|UNDL-U       |059.077|17s2|19940409|M
+COMP1531|5043436|Yang, Marc Saurabh Liam                           |3707/1|UNDL-U       |059.077|17s2|19940409|M
+COMP1521|5043436|Yang, Marc Saurabh Liam                           |3707/1|UNDL-U       |059.077|17s2|19940409|M
+COMP6771|5087083|Hu, Wei                                           |3978/1|COMPI1       |079.750|17s2|19920729|M
+COMP4931|5087083|Hu, Wei                                           |3978/1|COMPI1       |079.750|17s2|19920729|M
+COMP4920|5087083|Hu, Wei                                           |3978/1|COMPI1       |079.750|17s2|19920729|M
+COMP3511|5072097|Cheng, David David                                |3707/1|COMPB1       |072.250|17s2|19910830|M
+COMP3511|5091641|Yao, Gabriel Calvin                               |3778/1|COMPB1       |000.000|17s2|19981004|M
+COMP2041|5091641|Yao, Gabriel Calvin                               |3778/1|COMPB1       |000.000|17s2|19981004|M
+COMP2041|5083414|Cao, Zihao Alexander                              |3969/3|COMPB1 FINSA1|058.750|17s2|19931119|M
+COMP1531|5083414|Cao, Zihao Alexander                              |3969/3|COMPB1 FINSA1|058.750|17s2|19931119|M
+COMP1521|5083414|Cao, Zihao Alexander                              |3969/3|COMPB1 FINSA1|058.750|17s2|19931119|M
+COMP6741|5092717|Au, Morgan Alex Liyu                              |3707/1|COMPA1       |058.500|17s2|19960907|M
+COMP3601|5092717|Au, Morgan Alex Liyu                              |3707/1|COMPA1       |058.500|17s2|19960907|M
+COMP3421|5092717|Au, Morgan Alex Liyu                              |3707/1|COMPA1       |058.500|17s2|19960907|M
+COMP1521|5012577|Khan, Yi Albert Kenneth                           |8543  |COMPA1       |067.375|17s2|19800117|M
+COMP3331|5046417|Huynh, Jiaqi                                      |8543  |COMPCS       |074.333|17s2|19940604|M
+COMP2041|5046417|Huynh, Jiaqi                                      |8543  |COMPCS       |074.333|17s2|19940604|M
+COMP1511|5019248|Dong, Raymond Gary Thomas Geoffrey                |3945/3|SENGAH       |000.000|17s2|19900214|M
+COMP9901|5078295|Chan, Rebecca Li Jessica                          |1650  |COMPA1       |000.000|17s2|19951002|F
+COMP1511|5060330|Smith, Cameron Alex                               |8543  |COMPCS       |000.000|17s2|19881107|M
+COMP2041|5062900|Zheng, Hannah Maria                               |3778/2|COMPCS       |059.500|17s2|19940520|F
+COMP9902|5062665|Long, Lei                                         |3946/2|COMPA1 FINSA1|069.833|17s2|19950907|M
+COMP1511|5083405|Zhou, Emily Rui                                   |6001  |SENGAH       |071.750|17s2|19980607|F
+COMP9024|5098734|Leung, Stephanie Xue                              |3707/3|COMPSS       |070.538|17s2|19930416|F
+COMP1511|5041323|Lim, Wei Zhen Oscar                               |8543  |COMPAS       |045.250|17s2|19990602|M
+COMP9511|5092129|Cheung, Mark Julian Feng                          |8543  |COMPA1 COMPG1|077.000|17s2|19950821|M
+COMP9311|5092129|Cheung, Mark Julian Feng                          |8543  |COMPA1 COMPG1|077.000|17s2|19950821|M
+COMP9021|5092129|Cheung, Mark Julian Feng                          |8543  |COMPA1 COMPG1|077.000|17s2|19950821|M
+COMP2041|5059084|Gupta, Alexander                                  |3983/2|SENGAH       |043.714|17s2|19991006|M
+COMP1521|5001903|Leung, Muhammad                                   |3959/1|COMPB1       |091.500|17s2|19981215|M
+COMP1531|5061772|Singh, Kevin Minh                                 |3978/2|ELECAH       |075.750|17s2|19951022|M
+COMP1521|5061772|Singh, Kevin Minh                                 |3978/2|ELECAH       |075.750|17s2|19951022|M
+COMP1531|5062954|Fang, Philip Kai                                  |3959/1|COMPCS       |072.000|17s2|19940719|M
+COMP9444|5060318|Watson, Matthew Dong                              |8543  |COMPBH       |000.000|17s2|19940901|M
+COMP4418|5060318|Watson, Matthew Dong                              |8543  |COMPBH       |000.000|17s2|19940901|M
+COMP3331|5060318|Watson, Matthew Dong                              |8543  |COMPBH       |000.000|17s2|19940901|M
+COMP2041|5055619|Ng, Bin Jun                                       |8543  |MECHAH       |053.765|17s2|19910718|M
+COMP6771|5019334|Chen, Lillian Jessica                             |3967/3|COMPA1       |000.000|17s2|19950807|F
+COMP9444|5002794|Jin, Leon Kevin                                   |3978/2|BINFAH       |078.500|17s2|20000119|M
+COMP9331|5020514|Kim, Justin Peng                                  |1650  |COMPA1       |065.450|17s2|19991102|M
+COMP9024|5020514|Kim, Justin Peng                                  |1650  |COMPA1       |065.450|17s2|19991102|M
+COMP1511|5049629|Wang, Li                                          |8543  |COMPA1       |070.750|17s2|19930312|F
+COMP2041|5007119|Watson, Sebastian Chang Hayden                    |3784/2|COMPDS       |080.000|17s2|19990318|M
+COMP1531|5007119|Watson, Sebastian Chang Hayden                    |3784/2|COMPDS       |080.000|17s2|19990318|M
+COMP1521|5007119|Watson, Sebastian Chang Hayden                    |3784/2|COMPDS       |080.000|17s2|19990318|M
+COMP1521|5019274|Pan, Bruce Chen Julian                            |3767/4|COMPGS       |072.500|17s2|19890723|M
+COMP2521|5033647|Ng, Emily Sarah                                   |8543  |COMPCS       |000.000|17s2|19930623|F
+COMP1531|5033647|Ng, Emily Sarah                                   |8543  |COMPCS       |000.000|17s2|19930623|F
+COMP2041|5063680|Fung, Michael                                     |3778/2|COMPA1       |076.000|17s2|19931204|M
+COMP1531|5063680|Fung, Michael                                     |3778/2|COMPA1       |076.000|17s2|19931204|M
+COMP1521|5063680|Fung, Michael                                     |3778/2|COMPA1       |076.000|17s2|19931204|M
+COMP2041|5035218|Nie, Brandon                                      |1650  |COMPCS       |073.000|17s2|19990413|M
+COMP9444|5023089|Bennett, Rui Gabriel                              |8543  |COMPER       |071.167|17s2|19940618|M
+COMP1531|5023089|Bennett, Rui Gabriel                              |8543  |COMPER       |071.167|17s2|19940618|M
+COMP1521|5023089|Bennett, Rui Gabriel                              |8543  |COMPER       |071.167|17s2|19940618|M
+COMP1531|5077904|Lan, Raymond Peng                                 |3703/5|COMPAS       |066.500|17s2|19980810|M
+COMP1521|5077904|Lan, Raymond Peng                                 |3703/5|COMPAS       |066.500|17s2|19980810|M
+COMP2521|5075288|Zhao, Lillian Linda Xinyi                         |3707/1|SENGAH       |076.000|17s2|19960117|F
+COMP2041|5075288|Zhao, Lillian Linda Xinyi                         |3707/1|SENGAH       |076.000|17s2|19960117|F
+COMP1531|5075288|Zhao, Lillian Linda Xinyi                         |3707/1|SENGAH       |076.000|17s2|19960117|F
+COMP1521|5002960|Gibson, Ho                                        |3978/2|COMPCS       |073.350|17s2|20030201|M
+COMP1511|5061620|Gibson, Alex Austin Timothy                       |3707/2|COMPA1       |000.000|17s2|19910622|M
+COMP2041|5077246|Yu, Vanessa Astrid                                |8543  |COMPA1       |075.875|17s2|19921022|F
+COMP3331|5064954|Choy, Michael Jing                                |3761/1|COMPSS       |000.000|17s2|20010709|M
+COMP2041|5064954|Choy, Michael Jing                                |3761/1|COMPSS       |000.000|17s2|20010709|M
+COMP9021|5088477|Wan, Ho Hong Brian                                |3707/1|UNDL-U       |065.750|17s2|20001210|M
+COMP3421|5003630|Qiu, Hannah Yue Lauren Lauren Joanna Joanna       |8543  |SENGA1       |091.417|17s2|20000910|F
+COMP2521|5071948|Davis, Gabriel Jeffrey                            |1650  |MTRNAH       |000.000|17s2|19811214|M
+COMP2121|5071948|Davis, Gabriel Jeffrey                            |1650  |MTRNAH       |000.000|17s2|19811214|M
+COMP2041|5071948|Davis, Gabriel Jeffrey                            |1650  |MTRNAH       |000.000|17s2|19811214|M
+COMP1511|5013082|Yao, You Brendan                                  |3778/1|SENGAH       |061.500|17s2|20020806|M
+COMP2521|5013133|Ni, Sebastian Hayden                              |3978/3|COMPAS COMPSS|064.333|17s2|19950202|M
+COMP1531|5013133|Ni, Sebastian Hayden                              |3978/3|COMPAS COMPSS|064.333|17s2|19950202|M
+COMP3431|5075994|Yu, Emily Yi                                      |3707/1|BIOCG1 COMPA1|042.909|17s2|19900905|F
+COMP2041|5075994|Yu, Emily Yi                                      |3707/1|BIOCG1 COMPA1|042.909|17s2|19900905|F
+COMP9901|5064744|Smith, Mark Mark Chun                             |3978/2|SENGAH       |080.375|17s2|19930716|M
+COMP9517|5011424|Tong, Nathan Brian                                |8543  |UNDL-U       |056.750|17s2|19930110|M
+COMP9444|5011424|Tong, Nathan Brian                                |8543  |UNDL-U       |056.750|17s2|19930110|M
+COMP2041|5011424|Tong, Nathan Brian                                |8543  |UNDL-U       |056.750|17s2|19930110|M
+COMP1521|5011424|Tong, Nathan Brian                                |8543  |UNDL-U       |056.750|17s2|19930110|M
+COMP6771|5019273|Jones, Daniel Sean Daniel                         |3778/1|COMPA1       |088.750|17s2|19920701|M
+COMP3331|5019273|Jones, Daniel Sean Daniel                         |3778/1|COMPA1       |088.750|17s2|19920701|M
+COMP2121|5019273|Jones, Daniel Sean Daniel                         |3778/1|COMPA1       |088.750|17s2|19920701|M
+COMP4121|5025361|Lim, Declan Cheng                                 |8543  |COMPY1       |080.063|17s2|19910415|M
+COMP3421|5025361|Lim, Declan Cheng                                 |8543  |COMPY1       |080.063|17s2|19910415|M
+COMP2041|5008979|Song, Zhen Lachlan Alvin Jing                     |8543  |SENGAH       |082.000|17s2|19970206|M
+COMP9901|5046613|Li, Jamie Chang Alex Ryan                         |8543  |SENGAH       |071.317|17s2|19930318|M
+COMP3331|5012412|Zhu, Minh Han                                     |3978/2|COMPDS       |069.500|17s2|19951215|M
+COMP3222|5077908|Luong, Andy Chang                                 |8338  |MTRNAH       |067.094|17s2|19910820|M
+COMP9311|5039196|Tan, Sarah                                        |8543  |CVENAH       |000.000|17s2|19950129|F
+COMP9024|5039196|Tan, Sarah                                        |8543  |CVENAH       |000.000|17s2|19950129|F
+COMP6445|5092145|Guan, Carlos Muhammad                             |3967/2|NAPPL-       |068.917|17s2|19950303|M
+COMP1531|5092145|Guan, Carlos Muhammad                             |3967/2|NAPPL-       |068.917|17s2|19950303|M
+COMP1521|5045154|Peng, Dennis Yuxuan Gabriel                       |8543  |COMPCS       |067.250|17s2|19860911|M
+COMP1521|5037403|Chow, Anna Jing                                   |3967/2|SENGAH       |079.917|17s2|19931210|F
+COMP1531|5084679|Ye, Robert                                        |8543  |COMPA1       |000.000|17s2|19781125|M
+COMP1521|5084679|Ye, Robert                                        |8543  |COMPA1       |000.000|17s2|19781125|M
+COMP4920|5099873|Tran, Xi                                          |3707/3|COMPCS       |000.000|17s2|19960719|M
+COMP1521|5034703|Dang, Xinyu Jake                                  |8543  |COMPCS       |000.000|17s2|19940904|M
+COMP9331|5004416|Chow, Emily Emily                                 |8543  |COMPA1       |059.769|17s2|19940813|F
+COMP9321|5004416|Chow, Emily Emily                                 |8543  |COMPA1       |059.769|17s2|19940813|F
+COMP9024|5004416|Chow, Emily Emily                                 |8543  |COMPA1       |059.769|17s2|19940813|F
+COMP9020|5004416|Chow, Emily Emily                                 |8543  |COMPA1       |059.769|17s2|19940813|F
+COMP2521|5063849|Zou, Charles Thomas Cheng                         |3781/1|FINSA1 SOLAA1|068.250|17s2|19900222|M
+COMP2121|5063849|Zou, Charles Thomas Cheng                         |3781/1|FINSA1 SOLAA1|068.250|17s2|19900222|M
+COMP9331|5079057|Zhou, Rachel Jiayi Jiayi                          |3967/2|COMPCS COMPES|076.250|17s2|19960618|F
+COMP9032|5079057|Zhou, Rachel Jiayi Jiayi                          |3967/2|COMPCS COMPES|076.250|17s2|19960618|F
+COMP9024|5079057|Zhou, Rachel Jiayi Jiayi                          |3967/2|COMPCS COMPES|076.250|17s2|19960618|F
+COMP6714|5079057|Zhou, Rachel Jiayi Jiayi                          |3967/2|COMPCS COMPES|076.250|17s2|19960618|F
+COMP2521|5036501|Yu, Emily Rui Xue                                 |8543  |COMPAH       |076.000|17s2|19950213|F
+COMP1521|5036501|Yu, Emily Rui Xue                                 |8543  |COMPAH       |076.000|17s2|19950213|F
+COMP1511|5030126|Zhang, Tianyi Brian                               |8543  |SENGAH       |061.500|17s2|19910710|M
+COMP9331|5090868|Wong, Astrid Jing Ka                              |3778/2|ACCTA1 COMPA1|000.000|17s2|19970312|F
+COMP9321|5090868|Wong, Astrid Jing Ka                              |3778/2|ACCTA1 COMPA1|000.000|17s2|19970312|F
+COMP9024|5090868|Wong, Astrid Jing Ka                              |3778/2|ACCTA1 COMPA1|000.000|17s2|19970312|F
+COMP9020|5090868|Wong, Astrid Jing Ka                              |3778/2|ACCTA1 COMPA1|000.000|17s2|19970312|F
+COMP9444|5098616|Ye, Peng Ethan Chang Morgan                       |3707/2|SENGAH       |067.167|17s2|19951231|M
+COMP9336|5098616|Ye, Peng Ethan Chang Morgan                       |3707/2|SENGAH       |067.167|17s2|19951231|M
+COMP9313|5098616|Ye, Peng Ethan Chang Morgan                       |3707/2|SENGAH       |067.167|17s2|19951231|M
+COMP6714|5098616|Ye, Peng Ethan Chang Morgan                       |3707/2|SENGAH       |067.167|17s2|19951231|M
+COMP9021|5097592|Davis, Richard Ali Zhi                            |3778/2|COMPA1       |075.250|17s2|19951111|M
+COMP9902|5060868|Xin, Li Tao Vincent Austin                        |6021  |SENGAH       |060.000|17s2|19950305|M
+COMP3222|5022555|Cao, Stephanie Yi                                 |8543  |COMPCS       |061.333|17s2|19921102|F
+COMP2521|5018945|Watson, Eric Raymond                              |8543  |ELECAH       |059.250|17s2|19961111|M
+COMP1531|5018945|Watson, Eric Raymond                              |8543  |ELECAH       |059.250|17s2|19961111|M
+COMP4920|5038495|Xie, Stephen                                      |8543  |COMPBH       |094.556|17s2|19990617|M
+COMP2041|5038495|Xie, Stephen                                      |8543  |COMPBH       |094.556|17s2|19990617|M
+COMP9444|5047571|Huynh, Li Jiayu                                   |3715/4|COMPIS       |068.167|17s2|19880717|M
+COMP9041|5047571|Huynh, Li Jiayu                                   |3715/4|COMPIS       |068.167|17s2|19880717|M
+COMP9032|5047571|Huynh, Li Jiayu                                   |3715/4|COMPIS       |068.167|17s2|19880717|M
+COMP9020|5047571|Huynh, Li Jiayu                                   |3715/4|COMPIS       |068.167|17s2|19880717|M
+COMP4920|5028302|Vo, Jiaqi Tianyi Samuel                           |3768/1|COMPCS       |070.513|17s2|19910318|M
+COMP9321|5040694|Xia, Xin                                          |3736/2|COMPCS       |068.500|17s2|19921217|M
+COMP6714|5040694|Xia, Xin                                          |3736/2|COMPCS       |068.500|17s2|19921217|M
+COMP3511|5040694|Xia, Xin                                          |3736/2|COMPCS       |068.500|17s2|19921217|M
+COMP1511|5047168|Jia, Eric Louis                                   |3707/3|COMPSS       |055.000|17s2|19990227|M
+COMP3331|5002638|Ali, Ho Xi Isaac                                  |5543  |COMPCS       |093.286|17s2|20011021|M
+COMP2041|5002638|Ali, Ho Xi Isaac                                  |5543  |COMPCS       |093.286|17s2|20011021|M
+COMP3511|5049066|Mo, Gary Nicholas                                 |8543  |MATHA1 MTRNAH|066.500|17s2|19961123|M
+COMP3331|5049066|Mo, Gary Nicholas                                 |8543  |MATHA1 MTRNAH|066.500|17s2|19961123|M
+COMP3222|5049066|Mo, Gary Nicholas                                 |8543  |MATHA1 MTRNAH|066.500|17s2|19961123|M
+COMP1511|5083701|Fan, Lillian Li                                   |1650  |COMPCS       |030.500|17s2|19951214|F
+COMP1521|5003393|Zhuang, Yifan Chi                                 |3711/4|COMPA1       |063.294|17s2|19950418|M
+COMP9311|5023951|Lu, Qian Naomi Lillian                            |3778/1|COMPIS       |000.000|17s2|19960208|F
+COMP9021|5023951|Lu, Qian Naomi Lillian                            |3778/1|COMPIS       |000.000|17s2|19960208|F
+COMP9020|5023951|Lu, Qian Naomi Lillian                            |3778/1|COMPIS       |000.000|17s2|19960208|F
+COMP2521|5053433|Qian, Carlos Michael                              |8543  |COMPI1 MATHM1|057.625|17s2|19911029|M
+COMP9444|5026249|Jones, Thomas Jack                                |8543  |COMPCS       |072.750|17s2|19910414|M
+COMP3331|5026249|Jones, Thomas Jack                                |8543  |COMPCS       |072.750|17s2|19910414|M
+COMP3151|5026249|Jones, Thomas Jack                                |8543  |COMPCS       |072.750|17s2|19910414|M
+COMP2121|5097156|Jones, George Simon Marc                          |8543  |ELECAH       |059.955|17s2|19890203|M
+COMP9444|5097889|Mao, Abdullah Darren                              |8543  |COMPCS       |072.500|17s2|19970509|M
+COMP4931|5097889|Mao, Abdullah Darren                              |8543  |COMPCS       |072.500|17s2|19970509|M
+COMP2521|5035924|Zhong, Kelvin Benjamin                            |8543  |COMPSS       |079.250|17s2|19930918|M
+COMP4904|5076406|Chan, Zhenyu William Xinyu                        |5543  |SENGAH       |000.000|17s2|19940402|M
+COMP2041|5076406|Chan, Zhenyu William Xinyu                        |5543  |SENGAH       |000.000|17s2|19940402|M
+COMP1521|5044897|Ng, Jessica Naomi                                 |8543  |COMPA1 COMPN1|077.909|17s2|19901122|F
+COMP1531|5033856|Ye, Rui Andy Yu                                   |8543  |COMPSS       |065.571|17s2|19930508|M
+COMP1521|5033856|Ye, Rui Andy Yu                                   |8543  |COMPSS       |065.571|17s2|19930508|M
+COMP9444|5000399|Chan, Jordan Roger Ian                            |3778/1|COMPA1       |059.464|17s2|19941126|M
+COMP6845|5000399|Chan, Jordan Roger Ian                            |3778/1|COMPA1       |059.464|17s2|19941126|M
+COMP4920|5000399|Chan, Jordan Roger Ian                            |3778/1|COMPA1       |059.464|17s2|19941126|M
+COMP9336|5064963|Shah, Mohamed Zheng Mitchell                      |3983/2|COMPCS       |000.000|17s2|19901204|M
+COMP9321|5064963|Shah, Mohamed Zheng Mitchell                      |3983/2|COMPCS       |000.000|17s2|19901204|M
+COMP9024|5064963|Shah, Mohamed Zheng Mitchell                      |3983/2|COMPCS       |000.000|17s2|19901204|M
+COMP6714|5064963|Shah, Mohamed Zheng Mitchell                      |3983/2|COMPCS       |000.000|17s2|19901204|M
+COMP2041|5055194|Tao, David                                        |1650  |SENGAH       |071.083|17s2|19861128|M
+COMP2521|5011132|Qiu, Yi Xue Naomi                                 |7543  |SENGAH       |000.000|17s2|19941229|F
+COMP1531|5011132|Qiu, Yi Xue Naomi                                 |7543  |SENGAH       |000.000|17s2|19941229|F
+COMP2041|5077201|Wang, Li                                          |8543  |COMPA1       |000.000|17s2|19900427|F
+COMP1511|5013442|Cheung, Zihao Michael                             |8543  |COMPAS       |068.250|17s2|19940227|M
+COMP9511|5015280|Pham, Albert Xudong Jackson                       |3978/2|COMPB1       |064.333|17s2|19910123|M
+COMP9311|5015280|Pham, Albert Xudong Jackson                       |3978/2|COMPB1       |064.333|17s2|19910123|M
+COMP9021|5015280|Pham, Albert Xudong Jackson                       |3978/2|COMPB1       |064.333|17s2|19910123|M
+COMP2521|5020335|Phillips, Yi Ryan Mark                            |3778/2|SENGAH       |000.000|17s2|19940309|M
+COMP3331|5046120|Feng, Christine Vivian                            |3978/1|COMPCS       |074.800|17s2|19930915|F
+COMP9322|5035092|Shah, Yuchen                                      |3978/2|COMPA1       |074.000|17s2|19940527|M
+COMP6771|5035092|Shah, Yuchen                                      |3978/2|COMPA1       |074.000|17s2|19940527|M
+COMP4920|5035092|Shah, Yuchen                                      |3978/2|COMPA1       |074.000|17s2|19940527|M
+COMP3421|5035092|Shah, Yuchen                                      |3978/2|COMPA1       |074.000|17s2|19940527|M
+COMP2041|5023110|Qian, Marc                                        |3707/3|SENGAH       |087.750|17s2|19910710|M
+COMP9021|5021643|Park, Lachlan Philip Jie Chang                    |8543  |COMPAS       |000.000|17s2|19970903|M
+COMP1511|5077655|Qian, Vincent Han Karl Zhihao                     |8543  |COMPA1       |000.000|17s2|19981118|M
+COMP1521|5012730|Chen, Emily Vivian Lauren                         |3707/1|COMPY1       |062.476|17s2|19951011|F
+COMP4121|5055458|Dong, Dominic Dylan Alex                          |3707/1|ELECBH       |065.750|17s2|19940706|M
+COMP3421|5055458|Dong, Dominic Dylan Alex                          |3707/1|ELECBH       |065.750|17s2|19940706|M
+COMP1511|5076307|Xin, Oliver Zhe Richard Isaac Henry               |8543  |COMPA1 MATHP1|063.917|17s2|19970617|M
+COMP9517|5094168|Vo, Jake Tao Nikola Le                            |8543  |COMPI1 MTRNAH|043.000|17s2|19931118|M
+COMP9444|5094168|Vo, Jake Tao Nikola Le                            |8543  |COMPI1 MTRNAH|043.000|17s2|19931118|M
+COMP9431|5094168|Vo, Jake Tao Nikola Le                            |8543  |COMPI1 MTRNAH|043.000|17s2|19931118|M
+COMP9311|5046180|Luong, Jing                                       |3983/3|COMPA1 MATHA1|060.750|17s2|19980323|M
+COMP9021|5046180|Luong, Jing                                       |3983/3|COMPA1 MATHA1|060.750|17s2|19980323|M
+COMP1511|5042526|Ren, Victor Dominic Roy                           |3715/5|ENGGAH       |085.821|17s2|19910817|M
+COMP2521|5061579|Murray, Jiayu Karl                                |3778/2|ELECAH       |000.000|17s2|19960115|M
+COMP1521|5061579|Murray, Jiayu Karl                                |3778/2|ELECAH       |000.000|17s2|19960115|M
+COMP2521|5091230|Xia, Richard                                      |3707/1|COMPAS COMPCS|055.750|17s2|20011030|M
+COMP9242|5088563|Ellis, Zhen Jia Ian                               |8543  |COMPA1       |000.000|17s2|19911017|M
+COMP6845|5088563|Ellis, Zhen Jia Ian                               |8543  |COMPA1       |000.000|17s2|19911017|M
+COMP2521|5016356|Cao, Steven John                                  |3978/3|COMPA1       |063.581|17s2|19990419|M
+COMP1521|5016356|Cao, Steven John                                  |3978/3|COMPA1       |063.581|17s2|19990419|M
+COMP1531|5029220|Phillips, Mitchell Xi Riley Gary                  |3438/2|ELECBS       |057.000|17s2|19940820|M
+COMP1521|5029220|Phillips, Mitchell Xi Riley Gary                  |3438/2|ELECBS       |057.000|17s2|19940820|M
+COMP3421|5091522|Xiong, Xin Han Xin                                |6001  |COMPA1       |078.545|17s2|20010605|M
+COMP2041|5041579|Le, Geoffrey Dong                                 |3707/3|COMPA1       |076.250|17s2|19920903|M
+COMP1521|5041579|Le, Geoffrey Dong                                 |3707/3|COMPA1       |076.250|17s2|19920903|M
+COMP4121|5014839|Lan, Qi Jackson Isaac                             |3768/2|UNDL-U       |065.308|17s2|19920131|M
+COMP2121|5014839|Lan, Qi Jackson Isaac                             |3768/2|UNDL-U       |065.308|17s2|19920131|M
+COMP2041|5014839|Lan, Qi Jackson Isaac                             |3768/2|UNDL-U       |065.308|17s2|19920131|M
+COMP1511|5073323|Khan, Sebastian Ian Zhen                          |6001  |COMPAS       |065.000|17s2|19850501|M
+COMP6733|5055004|Dong, Harrison                                    |8543  |SENGAH       |000.000|17s2|19830217|M
+COMP4920|5055004|Dong, Harrison                                    |8543  |SENGAH       |000.000|17s2|19830217|M
+COMP9444|5084136|Jin, Adam Isaac Jia                               |7543  |COMPA1       |086.000|17s2|19940929|M
+COMP3421|5084136|Jin, Adam Isaac Jia                               |7543  |COMPA1       |086.000|17s2|19940929|M
+COMP3331|5084136|Jin, Adam Isaac Jia                               |7543  |COMPA1       |086.000|17s2|19940929|M
+COMP2121|5008482|Zhou, Alexander                                   |3781/1|COMPCS       |000.000|17s2|19830226|M
+COMP2041|5008482|Zhou, Alexander                                   |3781/1|COMPCS       |000.000|17s2|19830226|M
+COMP2521|5050541|Zhao, Yang                                        |3778/2|MTRNAH       |000.000|17s2|20011229|F
+COMP1521|5032704|Zhao, Sarah Astrid                                |3154/4|COMPCS       |076.000|17s2|19970302|F
+COMP4920|5005391|Ng, Yue Vivian                                    |3978/2|COMPA1 COMPI1|024.625|17s2|19930709|F
+COMP4418|5005391|Ng, Yue Vivian                                    |3978/2|COMPA1 COMPI1|024.625|17s2|19930709|F
+COMP2521|5052490|Tao, Harrison                                     |3978/3|COMPCS       |079.750|17s2|19980425|M
+COMP1521|5066813|Zheng, Hong Tianyu Patrick Xudong                 |8543  |UNDL-U       |000.000|17s2|19940423|M
+COMP1531|5039236|Zhuang, Vincent Le Jun                            |3978/3|COMPI1 MTRNAH|070.500|17s2|19860924|M
+COMP1521|5039236|Zhuang, Vincent Le Jun                            |3978/3|COMPI1 MTRNAH|070.500|17s2|19860924|M
+COMP2521|5064359|Peng, Julian Nathan Dong Lucas                    |3967/3|ENGGAH       |075.760|17s2|19970721|M
+COMP9517|5026428|Jiang, Yufei Oscar                                |3778/1|SENGAH       |071.000|17s2|19971110|M
+COMP9444|5026428|Jiang, Yufei Oscar                                |3778/1|SENGAH       |071.000|17s2|19971110|M
+COMP3331|5026428|Jiang, Yufei Oscar                                |3778/1|SENGAH       |071.000|17s2|19971110|M
+COMP2041|5019807|Armstrong, Zhen Bowen Marc                        |3970/3|MTRNAH       |000.000|17s2|19970729|M
+COMP3331|5021998|Gibson, Ethan Declan Usman                        |3978/3|COMPA1       |083.750|17s2|19900831|M
+COMP1521|5062808|Feng, Brian Lei Oliver Paul                       |3978/4|MTRNAH       |084.083|17s2|19930719|M
+COMP1521|5092564|Ma, Riley Gordon Gabriel                          |8543  |COMPCS       |052.500|17s2|19930916|M
+COMP9444|5061246|Xie, Astrid                                       |3707/3|COMPAS COMPDS|077.750|17s2|19900831|F
+COMP6733|5061246|Xie, Astrid                                       |3707/3|COMPAS COMPDS|077.750|17s2|19900831|F
+COMP3601|5061246|Xie, Astrid                                       |3707/3|COMPAS COMPDS|077.750|17s2|19900831|F
+COMP1511|5069896|Brown, Chao Daniel                                |8543  |COMPCS       |000.000|17s2|19880706|M
+COMP2521|5098509|Chua, Mackenzie Simon                             |8543  |COMPSS       |000.000|17s2|19970205|M
+COMP1531|5098509|Chua, Mackenzie Simon                             |8543  |COMPSS       |000.000|17s2|19970205|M
+COMP1521|5098509|Chua, Mackenzie Simon                             |8543  |COMPSS       |000.000|17s2|19970205|M
+COMP1511|5005464|Ye, Zhen                                          |3707/3|COMPCS       |087.000|17s2|19961120|M
+COMP1531|5033848|Guo, Yang Li                                      |5543  |COMPES COMPSS|065.250|17s2|20000613|F
+COMP1521|5033848|Guo, Yang Li                                      |5543  |COMPES COMPSS|065.250|17s2|20000613|F
+COMP9021|5018808|Xin, Jackson Chi                                  |8543  |COMPBH       |000.000|17s2|19891021|M
+COMP3222|5068659|Liu, Christine Yue                                |3967/2|COMPY1       |064.500|17s2|19940206|F
+COMP2521|5068659|Liu, Christine Yue                                |3967/2|COMPY1       |064.500|17s2|19940206|F
+COMP1511|5015850|Lim, Naomi Yue Jessica                            |3778/1|COMPA1 MTRNAH|066.625|17s2|19961026|F
+COMP9444|5027485|Cheng, Anna Naomi                                 |8543  |SENGAH       |075.300|17s2|19890724|F
+COMP3331|5027485|Cheng, Anna Naomi                                 |8543  |SENGAH       |075.300|17s2|19890724|F
+COMP9021|5046786|Sharma, Chen Calvin Alan                          |3778/1|TELEAS       |051.250|17s2|19900203|M
+COMP2521|5091093|Cheng, Tao                                        |8543  |COMPAS COMPSS|073.000|17s2|19991005|M
+COMP4121|5087098|Mao, Abdullah Zhe Michael                         |3983/4|ELECAH       |072.250|17s2|19860920|M
+COMP2041|5087098|Mao, Abdullah Zhe Michael                         |3983/4|ELECAH       |072.250|17s2|19860920|M
+COMP9321|5039871|Shen, Kenneth Eric Harry                          |3707/1|COMPA1 MTRNAH|084.000|17s2|19991116|M
+COMP6771|5014460|Zhuang, Connor Jeffrey Matthew                    |3959/1|COMPA1       |075.000|17s2|19941106|M
+COMP3421|5014460|Zhuang, Connor Jeffrey Matthew                    |3959/1|COMPA1       |075.000|17s2|19941106|M
+COMP2521|5030820|Zeng, Tristan Xingyu                              |3707/2|COMPI1       |061.250|17s2|19891210|M
+COMP1531|5030820|Zeng, Tristan Xingyu                              |3707/2|COMPI1       |061.250|17s2|19891210|M

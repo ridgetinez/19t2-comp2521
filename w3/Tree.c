@@ -14,6 +14,7 @@ typedef struct _tree {
 int max(int a, int b) {
     return (a > b) ? a : b;
 }
+
 // make a new node containing data
 Tree newNode(int it) {
    Tree new = malloc(sizeof(struct _tree));
@@ -42,8 +43,7 @@ void showTreeR(Tree t, int depth) {
    if (t != NULL) {
       showTreeR(right(t), depth+1);
       int i;
-      for (i = 0; i < depth; i++)
-	 putchar('\t');            // TAB character
+      for (i = 0; i < depth; i++) putchar('\t');
       printf("%d\n", data(t));
       showTreeR(left(t), depth+1);
    }
@@ -82,6 +82,25 @@ int countNodes(Tree t) {
 int height(Tree t) {
     if (t == NULL) return 0;
     return 1 + max(height(t->left), height(t->right));
+}
+
+// return -1 if not AVL, else return height of the tree
+int isAVL(Tree t) {
+   if (t == NULL) return 0;
+   int hL = isAVL(t->left);
+   int hR = isAVL(t->right);
+   if (hL == -1 || hR == -1) return -1;
+   if (abs(hL-hR) > 1) return -1;
+   return 1 + max(hL, hR);
+}
+
+// print the height diff of every node's left and right subtrees
+int printHeightDiff(Tree t) {
+   if (t == NULL) return 0;
+   int hL = printHeightDiff(t->left);
+   int hR = printHeightDiff(t->right);
+   printf("%d: %d\n", t->value, hL-hR);
+   return 1 + max(hL, hR);
 }
 
 // Q5
@@ -168,6 +187,8 @@ void test_em(Tree t) {
     printf("treeMaxBranchLen: %d\n\n", treeMaxBranchLen(t));
 
     printf("width: %d\n", width(t));
+
+    printHeightDiff(t);
 }
 
 int main(void) {

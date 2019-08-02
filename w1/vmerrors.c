@@ -13,7 +13,7 @@
 #include <stdlib.h>
 #define CACHESIZE 64
 
-int cache[CACHESIZE];
+int cache[CACHESIZE];   
 
 void printArr(int *arr, int n);
 void fillSquares(int *arr, int n);
@@ -27,26 +27,25 @@ int main(void)
 
     int x;
     printf("Hey! Give me an integer and I'll square it: ");
-    scanf("%d", x);             // assume valid user input
+    scanf("%d", &x);             // assume valid user input
     printf("%d^2 = %d", x, x*x);
 
     ///////////// PHASE 2 /////////////
 
-    fillSquares(cache, 48);
-    printArr(cache, CACHESIZE);
+    fillSquares(cache, 48); // 48
+    printArr(cache, CACHESIZE); // 64
 
     int *arr = malloc(sizeof(int) * CACHESIZE);
     if (arr == NULL) {
         fprintf(stderr, "vmerrors: arr failed to allocate");
         return EXIT_FAILURE;
     }
-    fillSquares(arr, 48);
-    printArr(arr, CACHESIZE);
+    fillSquares(arr, 48); // 48
+    printArr(arr, CACHESIZE); // 64
 
     ///////////// PHASE 3 /////////////
-
     printf("Going to construct a %dx%d matrix!\n", CACHESIZE, CACHESIZE);
-    int **matrix = (int **) calloc(CACHESIZE, sizeof(int));
+    int **matrix = (int **) calloc(CACHESIZE, sizeof(int *)); 
     // do checks ...
     for (int i = 0; i <= CACHESIZE; i++) {
         matrix[i] = (int *) calloc(CACHESIZE, sizeof(int));
@@ -57,7 +56,7 @@ int main(void)
     ///////////// PHASE 4 /////////////
 
     printf("These are just a set of logical puzzles. To each answer in your mind true or false\n");
-    printf("Assume x is a signed integer, and ux is an unsigned integer.\n");
+    printf("Assume x is a signed integer, and ux is an unsigned integer.\n");  
 
     printf("Does the condition x > 0 ==> x * 2 > 0\n");
     printf("Does x > 0 && y > 0 ==> x + y > 0\n");
